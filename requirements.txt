@@ -1,0 +1,4 @@
+numpy
+ansible
+scipy
+pandas
